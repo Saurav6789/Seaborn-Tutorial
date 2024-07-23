@@ -1,0 +1,24 @@
+# Table of Contents
+- 1.Introduction to Seaborn
+- 2.Seaborn vs Matplotlib
+- 3.Import Libraries
+- 4.Line Charts
+- 5.Scatterplots
+- 6.Rel Plot
+- 7.Bar Plot
+- 8.Cat Plot
+- 9.Dist Plot
+- 10.KDE Plot
+- 11.Swarm Plot
+- 12.Violin Plot
+- 13.Strip Plot
+- 14.Box Plot
+- 15.Boxen Plot
+- 16.Pair Plot
+- 17.Pair Grid
+- 18.Regression Plot
+- 19.Point Plot
+- 20.Facet Grid
+- 21.Joint Plot
+- 22.Joint Grid
+- 23.Heat Map
